@@ -2,3 +2,7 @@ githubのテスト
 branchA
 branchA
 branchA
+
+branchB
+branchB
+branchB
